@@ -1,0 +1,10 @@
+{
+  "name": "simple-node-api",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npx jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
